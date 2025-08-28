@@ -60,6 +60,9 @@ I am a full-stack developer with over 5 years of experience in building scalable
   <a href="https://codeforces.com/profile/raunak0400" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/raunak0400"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raunak0400" /></a><a href="https://ko-fi.com/raunak0400"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="raunak0400" /></a></p><br><br>
+
 # ⚒️ Skills  
 
 ## 🖥️ Programming Languages  
